@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Forth",
+				"Sublime Merge: Folder History"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/egnedata/Solceller/1500-s menusystem.txt",
+		"/C/egnedata/Solceller/Menu system.txt",
+		"/C/egnedata/wireguard/client.config",
+		"/C/egnedata/KiCAD-flyt/journal.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ20S/4004195 CableKit (DE_ITA)/4004195-2/Journal.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Projects/Active Projects/EDP-046 Slejpner 1FS/05 Development Files/PU40/Kabling på prototype 2/Journal.txt",
+		"/C/egnedata/Solceller/Menu system",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ15/01ELF9227 Cable Softstarter 15kW/Journal.md",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ20S/4002016 Signal harness/CCSC - emerging/Journal 4002016_CCSC.txt",
+		"/C/egnedata/Solceller/Raekkestigning_vaerktoej.html",
+		"/C/batch/FloppyImage_Registered/Serial.txt",
+		"/C/Users/mfi/Downloads/vfd21-080206_simplified/vfd_readme.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ20S/4002016 Signal harness/CCSC - emerging/Update 5/Comments.txt",
+		"/C/egnedata/wireguard/server.config",
+		"/C/Users/mfi/Downloads/mobilos.ovpn",
+		"/C/perforce/sw/projects/CentralControl256/main/SRC/QNET_SUPPORT_FUNCTIONS.C",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ20S/MR iQ20 harness corrections following test insatallation.txt",
+		"/C/egnedata/martinfiltenborg.dk/cx-club/robots.txt",
+		"/F/Tester.txt",
+		"/C/perforce/sw/projects/CentralControl256/main/SRC/MAIN.c",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ20S/4002453 Power harness/261019 Actions-list.csv",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ20S/4001809 (DE) iQ20s Internal connections/C000001 - 4001809-17 (første version fra DIS)/document_state.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ20S/4002016 Signal harness/CCSC - emerging/Update 3 - we have a sample/Actions-list.csv",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ20S/iQ20 harness corrections following test insatallation",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ20S/SR input to cabling.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ20S/4002453 Power harness/Journal 4002453.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ20S/4002016 Signal harness/CCSC - emerging/Update 2 -Complete rewrite - we have been barking up the wrong tree/Journal 4002016_CCSC.txt",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.4/installer/pc/Bugs.txt",
+		"/C/perforce/sw/SWInstallers/__common__/v1.07/var/swup/menu/readme.txt",
+		"/C/temp/udpak/DDriver_test/FSD.md",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/Adapters and addons/4004476 EPSS2-to-EPSS1 adapter/Covers-OpenSCAD/readme.txt",
+		"/C/perforce/sw/SWInstallers/__common__/v1.07/var/swup/menu/__menu_base.json",
+		"/C/Users/mfi/AppData/Roaming/Microsoft/Signatures/FixSignature.bat",
+		"/C/egnedata/Signatures/readme.txt",
+		"/C/egnedata/Signatures/journal.txt",
+		"/C/batch/FixSignature.bat",
+		"/C/egnedata/Signatures/Procedure.txt",
+		"/C/Users/mfi/AppData/Roaming/Microsoft/Signatures/Initiate (martin.filtenborg@ecpower.dk).txt",
+		"/C/Users/mfi/AppData/Roaming/Microsoft/Signatures/ECPower_DK.txt",
+		"/C/Users/mfi/AppData/Roaming/Microsoft/Signatures/ECPower_DK_OWA.txt",
+		"/S/030 - Produkt dokumentation ----- TIL EKSTERN BRUG/hvor er alting.txt",
+		"/X/__EC Power Skabeloner/Bestilling af varer på lageret.oft",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.3/installer/swup/menu.json",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ20S/4002016 Signal harness/CCSC - unused/Update 2 -Complete rewrite - we have been barking up the wrong tree/Journal 4002016_CCSC.txt",
+		"/C/egnedata/git/DipStickDriver/.gitignore",
+		"/C/egnedata/git/DipStickDriver/Core/Src/modbus.c",
+		"/C/egnedata/git/DipStickDriver/FSD.md",
+		"/C/Users/mfi/AppData/Local/Temp/p4v/laptop74_perforce_1666/depot/hw/projects/LTE_Module/Ver_1.00_E000250/EXS82_Firmware/readme_versions#5.txt",
+		"/C/perforce/sw/SWInstallers/__common__/v1.07/bin/pc_installer_config.py",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.4/build202609171340-swup-eu/__releasepak/lang.json",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.4/installer/swup/lang.json",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.3/installer/swup/lang.json",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.4/build202609171047-swup-eu/__releasepak/lang.json",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.4/build202609171047-swup-eu/__releasepak/menu.json",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.4/build202609171035-swup-eu/__releasepak/menu.json",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.4/installer/swup/menu.json",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.3/installer/swup/fw3.510_menu (autoselect)/menu.json",
+		"/C/Users/mfi/OneDrive - EC Power A S/Skrivebord/hardware_tested.txt",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2025.6/sw/avr/flash/2025.6 - Nye versioner.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Projects/Active Projects/U-COST199 SWUP/SWUP _External_/releasepak/2026.2_FW_v3.510/menu.json",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.4/sw/avr/flash/2026.4 - Nye versioner.txt",
+		"/C/Users/mfi/AppData/Local/Temp/p4v/laptop74_perforce_1666/depot/sw/SWInstallers/OfficialRelease/2026.3/installer/swup/lang#5.json",
+		"/C/Users/mfi/AppData/Local/Temp/p4v/laptop74_perforce_1666/depot/sw/SWInstallers/OfficialRelease/2026.3/installer/swup/menu#2.json",
+		"/C/Users/mfi/AppData/Local/Temp/p4v/laptop74_perforce_1666/depot/sw/SWInstallers/OfficialRelease/2026.3/installer/swup/menu#3.json",
+		"/C/egnedata/git/TI59_battery_v2/README.md",
+		"/C/Users/mfi/AppData/Local/Temp/p4v/laptop74_perforce_1666/depot/sw/SWInstallers/OfficialRelease/2026.3/installer/swup/lang#3.json",
+		"/C/Users/mfi/STM32CubeIDE/workspace_2.0.0/DipStickDriver/FSD.md",
+		"/D/FAIL.TXT",
+		"/D/hardware_tested.txt",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.3/sw/avr/flash/2026.3 - Nye versioner.txt",
+		"/C/egnedata/git/TI59_battery_v2/.gitignore",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.2/installer/swup/menu.json",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.2/installer/swup/lang.json",
+		"/C/Users/mfi/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6BJ2EJZO/Test_Eeprom_Find_Last_Buffer_To_Debug_Port_8.TXT",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.1/installer/swup/lang.json",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.1/installer/swup/menu.json",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.2/installer/swup/Progress.md",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.2/Hexify20.bat",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/Control Panels/iQ20S/4002016 Signal harness/COMRI - in production/Inventor revisions available/Journal COMRI.txt",
+		"/C/egnedata/git/Dipstick/.gitignore",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.1/doc/Distribution to EMS 2026.1.txt",
+		"/R/DevelopmentTools/Hyper Terminal/Hyper Terminal private edition 7/License Key.txt",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.1/sw/avr/flash/2026.1 - Nye versioner.txt",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.2/sw/avr/flash/2026.2 - Nye versioner.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/PP template/readme.md",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/readme.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/01ELT2077 ECU v2.03/02 Software/readme.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/E000138 GPI module v1.01/02 Software/readme.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/E000250 LTE module/02 Software/readme_PreloadSW.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/E000250 LTE module/02 Software/readme_NoSw.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/E000178 Flowmaster Ctrl Top v1.04/02 Software/readme.txt",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.1/installer/EMS-data/NameFusesLock",
+		"/C/perforce/sw/SWInstallers/OfficialRelease/2026.1/installer/EMS-data/fuses_design.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/PP template/02 Software/fuses_design.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/PP template/02 Software/GASSAFETYCIRCUIT_V7.fuse",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/PP template/02 Software/HeatControl_V8.fuse",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/PP template/02 Software/HEATCONTROLUART_V7.fuse",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/PP template/02 Software/LoadSharerS_V8.fuse",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/PP template/02 Software/MISFIRE_1KS_HW2.fuse",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/PP template/02 Software/MISFIRE_4Y.fuse",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/PP template/02 Software/Fusefile nomenclature.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/S&E - Docs/R&D Products/PP template/02 Software/HeatControl.fuse",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/Control Panels/C000010 Blackstart box/4004464 Blackstart cablekit/revision_history.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/Q000007 Flowmaster Ctrl/Q000007R001 Flowmaster/02 Software/FlowMaster.fuse",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/PP template/02 Software/Fusefile nomenclature.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/PP template/02 Software/ECU_HW3.fuse",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/PP template/02 Software/ECU_1KS_XRGI9_HW2_V8.fuse",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/PP template/02 Software/ECU_4Y_XRGI20_HW3.fuse",
+		"/R/DevelopmentTools/Hyper Terminal/win7_hyperterminal/LæsMigFØRST.txt",
+		"/C/Users/mfi/AppData/Local/teraterm5/teraterm_2025.10_ModemCall_succeding.log",
+		"/S/160 - Software ----- KUN TIL INTERN BRUG/hvor er softwaren.txt",
+		"/C/temp/TeraTermLog/teraterm_2026.1_failing.log",
+		"/C/egnedata/git/WeActStudio.SystemMonitor/config.yaml",
+		"/C/Users/mfi/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6BJ2EJZO/test_2025.9_krise_ETH_ny_sw_2.TXT",
+		"/C/egnedata/git/CX_buttonlight_v3/production/bom.csv",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/Control Panels/iQ20S/4002829 (IT) iQ20s Internal connections/4002829-12/readme v12.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/Control Panels/iQ25/4004249 iQ25 external connection - Design files/HvorErFilerne.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/Control Panels/iQ20S/4002829 (IT) iQ20s Internal connections/4002829-11 (sidste version fra AEP)/readme.txt",
+		"/C/egnedata/git/et58-import/Photos/!info.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/Control Panels/iQ20S/4002016 Signal harness/CCSC - unused/Initial data 250605/readme.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/Compliance/VAULT/ECP internal/HvorErTegningerne.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/Control Panels/iQ20S/4002016 Signal harness/CCSC - unused/Update 2 -Complete rewrite - we have been barking up the wrong tree/Journal 4002016_CCSC.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/Control Panels/iQ20S/4002016 Signal harness/CCSC - unused/Update 2 -Complete rewrite - we have been barking up the wrong tree/Journal.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/Control Panels/iQ20S/4002453 Power harness/kilder.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/Control Panels/iQ20S/4002016 Signal harness/COMRI - in production/Inventor revisions available/Journal COMRI.txt",
+		"/R/DevelopmentTools/MDhero/readme.txt",
+		"/C/Users/mfi/OneDrive - EC Power A S/SP - Software & Electronics - Dokumenter/R&D Products/Control Panels/Adapters and addons/4004476 EPSS2-to-EPSS1 adapter/PCB-KiCAD/versions.md",
+		"/C/temp/udpak/knud/readme.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "platformio.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
