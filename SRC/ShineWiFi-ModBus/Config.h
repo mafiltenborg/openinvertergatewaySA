@@ -95,9 +95,18 @@
 #endif
 
 // Redefined to match the layout of ShineAssistant hardware (new device aimed at HomeAssistant integration without all the fuss)
-#define LED_GN 14 // D5
-#define LED_RT 12 // D6
-#define LED_BL 13 // D7
+#define LED_GN 14 // D5 - Alive/WiFi-status
+    //  Blinks 1Hz when connected
+#define LED_RT 12 // D6 - Error
+    // It is steady on if the last Modbus readout from the inverter failed.
+    // It is also on
+        // if no stick type has been detected, or 
+        // if MQTT is enabled but not connected.
+    // It blinks quickly while the device is (re)connecting to WiFi.
+    // It lights for 3 s just before a restart if the optional gateway ping check fails.
+#define LED_BL 13 // D7 - Configuration mode
+    // It is on during boot and while the WiFi config portal (access point) is open.
+    // It turns off once WiFi is connected or the portal is finished.
 
 // Original definition for the raw Wemos D1 mini device
 //#define LED_GN 0  // GPIO0
