@@ -14,11 +14,8 @@ Also, on the HW repo, you will find a 3D-printed box thing.
 * The data received is also provided as JSON and Prometheus format
 * Firmware update via [WifiManager](https://github.com/tzapu/WiFiManager)
 * Basic access to arbitrary modbus data
-* Tries to autodetect which stick type to use
 * Configuration access point for initial configuration of Wifi and MQTT server ([IP, SSID, Password](#flashing--hardware))
-* Supports Growatt protocol versions v1.20, v1.24 and v3.05
-* Other Growatt protocol versions can easily be implemented / modified
-* TLS support for ESP32
+* Supports Growatt protocol version v3.05
 * Debugging via Web and Telnet
 * Power limiting (allows zero export)
 
